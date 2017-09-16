@@ -43,8 +43,12 @@ Minifying:
 Get more information and online tools for this implementation on:
 https://en.toolpage.org/cat/text-conversion
 
-* Uppercase converter: https://en.toolpage.org/tool/uppercase
-* Lowercase converter: https://en.toolpage.org/tool/lowercase
-* Camelcase converter: https://en.toolpage.org/tool/camelcase
-* Startcase converter: https://en.toolpage.org/tool/startcase
-* Case inverter: https://en.toolpage.org/tool/case-inverter
+* [Upper case converter](https://en.toolpage.org/tool/uppercase)
+* [Lower case converter](https://en.toolpage.org/tool/lowercase)
+* [Camel case converter](https://en.toolpage.org/tool/camelcase)
+* [Start case converter](https://en.toolpage.org/tool/startcase)
+* [Snake case converter](https://en.toolpage.org/tool/snakecase)
+* [Kebab case converter](https://en.toolpage.org/tool/kebabcase)
+* [Alternating case converter](https://en.toolpage.org/tool/alternatingcase)
+* [Studly caps converter](https://en.toolpage.org/tool/studlycaps)
+* [Case inverter](https://en.toolpage.org/tool/case-inverter)
