@@ -2,7 +2,7 @@
 The JS Case Converter collection helps changing the cases of existing texts.
 
 ## Usage
-Import the caseconverter.js into your JS project or HTML page and use the functions of the CaseConverter object:
+Import `caseconverter.js` into your JS project or HTML page and use the functions of the CaseConverter object:
 
 ```html
 <!DOCTYPE html>
@@ -27,7 +27,7 @@ Import the caseconverter.js into your JS project or HTML page and use the functi
 ```
 
 ## Minify
-If you want to use a minified version of `caseconverter.js`, you have to minify it before usage. One way is to use the [minifier tool](https://www.npmjs.com/package/minifier) via [npm](https://www.npmjs.com/).
+If you want to use a minified version of `caseconverter.js`, you have to minify it before usage. One way is to run the [minifier tool](https://www.npmjs.com/package/minifier) via [npm](https://www.npmjs.com/).
 
 Installing:
 
