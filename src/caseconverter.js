@@ -1,7 +1,7 @@
 /**
  * The text conversion class helps changing the cases of an existing text. Get
  * more information and online tools for this implementation on: <a href=
- * "https://en.toolpage.org/cat/text-conversion">https://en.toolpage.org/cat/text-conversion</a>
+ * "https://en.toolpage.org/cat/case-converter">https://en.toolpage.org/cat/case-converter</a>
  * 
  * @author Yves Sorge
  */
